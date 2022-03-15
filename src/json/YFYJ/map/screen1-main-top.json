@@ -1,0 +1,478 @@
+{
+    "数据说明": " ",
+    "2021": {
+        "allDescription": "第一屏-全国-醒目数据",
+        "all": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.05,
+                "moneyNum": 30203.15,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.06,
+                "moneyNum": 7289.92,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.05,
+                "moneyNum": 21197.18,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.05,
+                "moneyNum": 2.43,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gdDescription": "山东-醒目数据",
+        "sd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.01,
+                "moneyNum": 1269.19,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 349.25,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.43,
+                "moneyNum": 861.01,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.48,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gzDescription": "青岛-醒目数据",
+        "qd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": -0.05,
+                "moneyNum": 62.78,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 27.72,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": -0.79,
+                "moneyNum": 52.71,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.23,
+                "unit": "万元/平方米"
+            }
+        ]
+    },
+    "2022": {
+        "allDescription": "第一屏-全国-醒目数据",
+        "all": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.05,
+                "moneyNum": 31713.31,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.06,
+                "moneyNum": 7533.72,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.05,
+                "moneyNum": 22469.01,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.05,
+                "moneyNum": 2.67,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gdDescription": "山东-醒目数据",
+        "sd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.01,
+                "moneyNum": 1332.65,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 366.71,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.43,
+                "moneyNum": 912.67,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.73,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gzDescription": "青岛-醒目数据",
+        "qd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": -0.05,
+                "moneyNum": 65.91,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 29.11,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": -0.79,
+                "moneyNum": 55.88,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.46,
+                "unit": "万元/平方米"
+            }
+        ]
+    },
+    "2023": {
+        "allDescription": "第一屏-全国-醒目数据",
+        "all": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.05,
+                "moneyNum": 33933.24,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.06,
+                "moneyNum": 8061.08,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.05,
+                "moneyNum": 24041.84,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.05,
+                "moneyNum": 2.81,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gdDescription": "山东-醒目数据",
+        "sd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.01,
+                "moneyNum": 1425.93,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 392.38,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.43,
+                "moneyNum": 976.56,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.87,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gzDescription": "青岛-醒目数据",
+        "qd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": -0.05,
+                "moneyNum": 70.53,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 31.14,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": -0.79,
+                "moneyNum": 59.79,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.58,
+                "unit": "万元/平方米"
+            }
+        ]
+    },
+    "2024": {
+        "allDescription": "第一屏-全国-醒目数据",
+        "all": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.05,
+                "moneyNum": 36647.9,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.04,
+                "moneyNum": 8705.97,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.05,
+                "moneyNum": 25965.19,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.05,
+                "moneyNum": 2.95,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gdDescription": "山东-醒目数据",
+        "sd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.05,
+                "moneyNum": 1540.01,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 423.77,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.05,
+                "moneyNum": 1054.68,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 3.01,
+                "unit": "元/平方米"
+            }
+        ],
+        "gzDescription": "青岛-醒目数据",
+        "qd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.05,
+                "moneyNum": 76.17,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 33.63,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": -0.79,
+                "moneyNum": 64.57,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.71,
+                "unit": "万元/平方米"
+            }
+        ]
+    },
+    "2025": {
+        "allDescription": "第一屏-全国-醒目数据",
+        "all": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.06,
+                "moneyNum": 39946.21,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.04,
+                "moneyNum": 9489.5,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.05,
+                "moneyNum": 28302.06,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.05,
+                "moneyNum": 3.1,
+                "unit": "万元/平方米"
+            }
+        ],
+        "gdDescription": "山东-醒目数据",
+        "sd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": 0.01,
+                "moneyNum": 1678.61,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 461.91,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": 0.05,
+                "moneyNum": 1149.6,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.05,
+                "moneyNum": 3.16,
+                "unit": "元/平方米"
+            }
+        ],
+        "gzDescription": "青岛-醒目数据",
+        "qd": [
+            {
+                "name": "房产数量",
+                "id": 1,
+                "compareNum1": -0.05,
+                "moneyNum": 83.03,
+                "unit": "万套"
+            },
+            {
+                "name": "税收收入",
+                "id": 4,
+                "compareNum1": 0.02,
+                "moneyNum": 36.66,
+                "unit": "亿元"
+            },
+            {
+                "name": "纳税人户数",
+                "id": 2,
+                "compareNum1": -0.79,
+                "moneyNum": 70.38,
+                "unit": "万户"
+            },
+            {
+                "name": "房产均价",
+                "id": 3,
+                "compareNum1": 0.02,
+                "moneyNum": 2.85,
+                "unit": "万元/平方米"
+            }
+        ]
+    }
+}
