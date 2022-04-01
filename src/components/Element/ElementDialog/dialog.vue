@@ -1,7 +1,7 @@
 <template>
 <div>
     <div v-dialogDrag>
-        <div class="dialog">
+        <div class="dialog" :style="{width: width}">
             <div class="dialog__header header" :style="{width: width}">
                 <!-- 弹窗标题 -->
                 <div class="header_title">
@@ -64,6 +64,7 @@ export default {
     display: flex;
     z-index: 99;
     .header {
+        box-sizing: border-box;
         height: 60px;
         width: 400px;
         border: 1px solid #3959A6;
@@ -88,6 +89,7 @@ export default {
         }
     }
     .dialog_content {
+        box-sizing: border-box;
         height: 765px;
         width: 400px;
         padding: 0 20px 10px;
