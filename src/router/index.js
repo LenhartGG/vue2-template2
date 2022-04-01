@@ -26,6 +26,11 @@ const routes = [
     path: '/progress',
     name: 'progress',
     component: () => import(/* webpackChunkName: "about" */ '../views/ProgressTest.vue')
+  },
+  {
+    path: '/treelist',
+    name: 'treelist',
+    component: () => import(/* webpackChunkName: "about" */ '../views/TreeList.vue')
   }
 ]
 
