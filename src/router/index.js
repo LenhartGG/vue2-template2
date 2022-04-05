@@ -27,6 +27,11 @@ const routes = [
     name: 'treelist',
     component: () => import('../views/TreeList.vue')
   },
+  {
+    path: '/test',
+    name: 'test',
+    component: () => import('../views/test.vue')
+  },
 ]
 
 const router = new VueRouter({

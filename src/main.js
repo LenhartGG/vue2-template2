@@ -5,6 +5,7 @@ import store from './store'
 import './register.js'
 import viewUI from 'view-design'
 import dialogDrag from './utils/dialogDrag.js'
+import Canvas2Image from './utils/canvas2image.js'
 import 'view-design/dist/styles/iview.css'
 import 'mapbox-gl/dist/mapbox-gl.css'
 import moment from "moment"
@@ -20,6 +21,8 @@ Vue.config.productionTip = false
 Vue.prototype.$echarts = echarts
 Vue.prototype.$moment = moment
 Vue.prototype.$axios = Http
+Vue.prototype.$Canvas2Image = Canvas2Image
+
 
 
 
