@@ -9,10 +9,18 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@antv/data-set": "^0.11.8",
+    "@antv/l7": "^2.8.4",
+    "@antv/l7plot": "^0.0.7",
+    "@mapbox/geojson-extent": "^1.0.1",
     "arscmapbox": "^0.0.41",
+    "axios": "^0.26.1",
     "core-js": "^3.8.3",
     "echarts": "^5.3.1",
-    "element-ui": "^2.15.6",
+    "lodash": "^4.17.21",
+    "mapbox-gl": "2.3.0",
+    "moment": "^2.29.1",
+    "view-design": "^4.7.0",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"

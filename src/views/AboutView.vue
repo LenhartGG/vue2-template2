@@ -1,6 +1,6 @@
 <template>
 <div>
-  <el-button @click="dialog.visible=!dialog.visible">弹出框按钮</el-button>
+  <Button @click="dialog.visible=!dialog.visible">弹出框按钮</Button>
   <ElementDialog
     v-if="dialog.visible"
     :visible="dialog.visible"
@@ -17,10 +17,10 @@
       <div class="subject">
         <div class="house-num"
             v-for="(item, index) in 10" :key="index">
-            <el-button class="num-1">{{item}}层</el-button>
-            <el-button class="num-others"
+            <Button class="num-1">{{item}}层</Button>
+            <Button class="num-others"
             v-for="(item2, index2) in 10" :key="index2"
-            :style="{'background-color': colors[0]}">{{item2}}</el-button>
+            :style="{'background-color': colors[0]}">{{item2}}</Button>
         </div>
       </div>
     </template>
