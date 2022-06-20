@@ -43,9 +43,17 @@ const routes = [
     path: '/test',
     name: 'test',
     meta: {
-      roles: ['admin']
+      roles: ['admin', 'user']
     },
     component: () => import('../views/test.vue')
+  },
+  {
+    path: '/list',
+    name: 'list',
+    meta: {
+      roles: ['admin', 'user']
+    },
+    component: () => import('../views/List.vue')
   },
   {
     path: '/403',

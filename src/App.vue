@@ -6,6 +6,7 @@
       <router-link to="/progress">ProgressBar</router-link> |
       <router-link to="/treelist">treelist</router-link> |
       <router-link to="/test">test</router-link> |
+      <router-link to="/list">list</router-link> |
     </nav>
     <router-view />
   </div>
@@ -33,5 +34,8 @@ export default {
 </script>
 
 <style lang="scss">
-
+@import '@/assets/css/style';
+html, body, #app {
+  background: #f8f8f9;
+}
 </style>

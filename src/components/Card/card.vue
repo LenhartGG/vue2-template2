@@ -38,7 +38,7 @@ export default {
 
   data() {
     return {
-      
+
     };
   },
 
@@ -51,7 +51,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '../../assets/css/style.scss';
 .card {
   width: 100%;
   background-color: #ffffff;
